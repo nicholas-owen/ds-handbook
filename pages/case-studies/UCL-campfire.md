@@ -42,6 +42,17 @@ Pointers for writing this section:
 * It highlights the key takeaways readers can expect to gain from the chapter.
 * Indication of length: two brief paragraphs. 
 -->
+## Why this case
+## What we did
+## What changed
+## What we'd tell others
+### What worked, and why
+### What didn't work, and how we adapted
+### Transferability and scaling potential
+### Sustainability and next steps
+
+
+
 
 
 ## Context
