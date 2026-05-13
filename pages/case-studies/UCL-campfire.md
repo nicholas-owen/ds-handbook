@@ -2,7 +2,7 @@
 title🇮🇩: Inês ready
 search_exclude: true
 description: <!---REPLACE THIS with a one sentence description of the chapter--->
-contributors: [<!---REPLACE THIS with comma separated list of contributors--->]
+contributors: [Nicholas Owen, Ines Chaves, Robert Andrews]
 page_id: <!---REPLACE THIS with a shortened page name. The shortened page name should be in lowercase and separated by underscore(s) if needed. For example, page_id of Community building will be community-building, replicate this in the name of the file -->
 
 # Cross-references – render at the bottom as a "Related pages" block of
