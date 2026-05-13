@@ -42,6 +42,8 @@ Pointers for writing this section:
 * It highlights the key takeaways readers can expect to gain from the chapter.
 * Indication of length: two brief paragraphs. 
 -->
+
+# Heading from Elixir UK Fellowship example
 ## Why this case
 ## What we did
 ## What changed
@@ -51,6 +53,63 @@ Pointers for writing this section:
 ### Transferability and scaling potential
 ### Sustainability and next steps
 
+# Headings from Case template: https://github.com/elixir-europe/ds-handbook/wiki/Templates#case-study-template
+Front matter:
+
+categories of problem solved/addressed (pre-established in a yaml file, e.g. lack of training, unclear roles, fragmented coordination, policy gap)
+Location: organisation(s), countries(s)
+Scale: Individual, team, institutional, national/regional, international
+Domain/Discipline of origin not who is interested in your case study: life sciences, [expand: other fields], domain-agnostic, cross-domain (pre-established in a yaml file)
+Summary (inside the top highlights box) 140–160 characters
+Contributors
+Relationships What is the theory? [connect to guidance pages related to case study] How will this help to progress in the maturity model? [connect to maturity model indicators relevant to the case]
+Context & need (mandatory)
+What problem or gap did this work address?
+Why was this relevant or urgent?
+Who was affected (researchers, stewards, institutions)?
+Provide enough context for readers unfamiliar with your setting.
+
+Stakeholders & roles (mandatory)
+Who was involved and in what capacity?
+List institutions, teams, communities, funders and their contribution that are appropriate for your particular case. (e.g. lead, collaborator, reviewer, tester, co-designer).
+
+Approach (mandatory)
+Describe the steps taken to address the challenge.
+Which tools, models or frameworks were used (e.g. RDMkit, CSCCE best practices, training courses)?
+Was this a new initiative or based on existing work?
+How were users or stakeholders engaged?
+
+Challenges & enablers (optional)
+What barriers or difficulties emerged (technical, cultural, organisational)?
+What factors enabled progress or success (leadership support, policies, communities)?
+
+Timeframe (optional)
+When did the work start? Is it ongoing?
+Include key phases if relevant.
+
+Outcomes, evidence & impact (optional but encouraged)
+What changed as a result of this work?
+List concrete outputs (training materials, workflows, policies, tools).
+Include adoption numbers, usage, feedback, or broader benefits.
+
+Lessons learned & recommendations (mandatory)
+What worked well — and why?
+What didn’t work — and how was it adapted?
+What should others consider when replicating or scaling this work?
+
+Transferability / scaling potential (optional)
+Can this approach be reused by other institutions or individuals?
+What conditions are required?
+What adaptations may be needed?
+
+Next steps & sustainability (mandatory)
+How is the work currently supported or funded?
+Who will maintain or own it?
+Plans for continuation, embedding or scaling.
+
+Resources & references (optional)
+List any external guidance pages, training materials, GitHub repos, SOPs, publications or policy links relevant to this case study.
+-----
 
 
 
