@@ -11,7 +11,7 @@
 # inventing one inline (so filtering and counts stay consistent).
 # ============================================================================
 
-title: " UCL  creation of Data Steward as a profession"          # mandatory – short, specific
+title: " UCL - Data Steward as a profession"          # mandatory – short, specific
 layout: case-study                 # mandatory – leave as-is
 type: [Case Study]                 # mandatory – leave as-is
 search_exclude: true               # remove this line when ready to publish
