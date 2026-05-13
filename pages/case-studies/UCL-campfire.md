@@ -1,5 +1,5 @@
 ---
-title🇮🇩: INes ready
+title🇮🇩: Inês ready
 search_exclude: true
 description: <!---REPLACE THIS with a one sentence description of the chapter--->
 contributors: [<!---REPLACE THIS with comma separated list of contributors--->]
