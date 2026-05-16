@@ -117,73 +117,79 @@ resources:
 
 ## Why this case (mandatory)
 
-What problem or gap did this work address, and why was it worth doing?
-Set up enough institutional context that a reader from a different
-country or sector can follow.
-
-- What was the situation before?
-- Who was affected (researchers, stewards, leadership)?
-- Why now – what made this the moment to act?
-
-Two or three short paragraphs. Don't recite policy – tell the story of
-the gap. Concrete details (sizes, dates, the specific incident that
-triggered it) help more than abstractions.
+>Note: What problem or gap did this work address, and why was it worth doing?
+>Set up enough institutional context that a reader from a different
+>country or sector can follow.
+>
+>- What was the situation before?
+>- Who was affected (researchers, stewards, leadership)?
+>- Why now – what made this the moment to act?
+>
+>Two or three short paragraphs. Don't recite policy – tell the story of
+>the gap. Concrete details (sizes, dates, the specific incident that
+>triggered it) help more than abstractions.
 
 
 ## What we did (mandatory)
 
-The actual approach. Walk through what you tried, in roughly the order
-you tried it. Bring people and tools in as they appear – no need for a
-separate "stakeholders" or "tools" section.
-
-- What was the first move?
-- Which tools, frameworks, or existing resources did you use? (e.g.
-  RDMkit pages, DSW templates, internal SOPs, the FAIR Cookbook)
-- How were researchers / leadership / partners engaged at each step?
-- Was this brand-new, or built on something existing?
-- Roughly how much effort was involved (FTE, calendar time)?
-
-Be concrete. *"We held a 30-minute intake call with the PI before each
-new project"* beats *"We instituted a stakeholder-engagement protocol"*.
-If you got something wrong and pivoted, say so here – the pivot is part
-of the story.
+>Note: The actual approach. Walk through what you tried, in roughly the order
+>you tried it. Bring people and tools in as they appear – no need for a
+>separate "stakeholders" or "tools" section.
+>
+>- What was the first move?
+>- Which tools, frameworks, or existing resources did you use? (e.g.
+>  RDMkit pages, DSW templates, internal SOPs, the FAIR Cookbook)
+>- How were researchers / leadership / partners engaged at each step?
+>- Was this brand-new, or built on something existing?
+>- Roughly how much effort was involved (FTE, calendar time)?
+>
+>Be concrete. *"We held a 30-minute intake call with the PI before each
+>new project"* beats *"We instituted a stakeholder-engagement protocol"*.
+>If you got something wrong and pivoted, say so here – the pivot is part
+>of the story.
 
 
 ## What changed (encouraged)
 
-What's different now? Concrete outputs are most useful – a training
-course delivered, a workflow adopted, a policy written, a tool deployed,
-a number that moved.
-
-- What was produced or implemented?
-- What's the evidence it worked? (uptake numbers, feedback, metrics,
-  anecdotes – all valid; pick what you actually have.)
-- What barriers came up, and which factors helped you push through?
-  (Leadership backing, an existing community, a deadline, a champion?)
-
-If the work hasn't produced visible change yet, say so – *"too early to
-tell, will revisit in 12 months"* is a fine answer when it's honest.
-Better than reaching for impact that isn't there.
+>Note: What's different now? Concrete outputs are most useful – a training
+>course delivered, a workflow adopted, a policy written, a tool deployed,
+>a number that moved.
+>
+>- What was produced or implemented?
+>- What's the evidence it worked? (uptake numbers, feedback, metrics,
+>  anecdotes – all valid; pick what you actually have.)
+>- What barriers came up, and which factors helped you push through?
+>  (Leadership backing, an existing community, a deadline, a champion?)
+>
+>If the work hasn't produced visible change yet, say so – *"too early to
+>tell, will revisit in 12 months"* is a fine answer when it's honest.
+>Better than reaching for impact that isn't there.
 
 
 ## What we'd tell others (mandatory)
 
-The lesson, the caveats, the conditions for replication, and what
-happens next – bundled because they overlap in practice.
+>Note: The lesson, the caveats, the conditions for replication, and what
+>happens next – bundled because they overlap in practice.
+>
+>- **What worked, and why.** The one or two things you'd repeat without
+>  hesitation if you were starting over.
+>- **What didn't work, and how you adapted.** The corner you painted
+>  yourself into. Future contributors learn most from these.
+>- **Transferability and scaling potential.** Can this approach be reused
+>  by another institution or individual? What conditions are required
+>  (leadership buy-in, existing service, specific funding, a particular
+>  legal context)? What adaptations might be needed? Be honest about
+>  what was special about your setting.
+>- **Sustainability and next steps.** How is the work currently supported
+>  or funded? Who maintains or owns it? What are the plans for
+>  continuation, embedding, or scaling? If continuity is uncertain, say
+>  so.
 
-- **What worked, and why.** The one or two things you'd repeat without
-  hesitation if you were starting over.
-- **What didn't work, and how you adapted.** The corner you painted
-  yourself into. Future contributors learn most from these.
-- **Transferability and scaling potential.** Can this approach be reused
-  by another institution or individual? What conditions are required
-  (leadership buy-in, existing service, specific funding, a particular
-  legal context)? What adaptations might be needed? Be honest about
-  what was special about your setting.
-- **Sustainability and next steps.** How is the work currently supported
-  or funded? Who maintains or owns it? What are the plans for
-  continuation, embedding, or scaling? If continuity is uncertain, say
-  so.
+
+**Sustainability and next steps.**
+The team is funded through a combination of core departmental budget and research income. Permanent contracts depend on a continuing flow of projects, which has held so far but requires ongoing effort to maintain. Long-term technical goals include automated metadata population from services, provenance capture throughout the research lifecycle, and expanded trusted research environments for sensitive data — all of which represent future capacity requirements. The work with ELIXIR and BioFAIR through the Pathfinder project will one of the many vehicles through which UCL works to embed the profession more formally at all levels.
+
+External community engagement — with ELIXIR-UK, ELIXIR Europe, GA4GH, and BioFAIR — is not simply a reputational activity; it is part of how the team sustains its relevance and influence. Contributing to standards development and community training means that UCL's practices stay aligned with what the broader research community expects, and it means that stewards bring back knowledge and connections that strengthen the institutional offer. For other institutions, engaging with these communities early — before a full team exists — is a practical way to build credibility and find collaborators. Broader national community of practice development (along lines seen in Ireland, Canada, and Austria) is identified as a gap in the UK that the team is keen to help address through these channels.
 
 
 <!--
