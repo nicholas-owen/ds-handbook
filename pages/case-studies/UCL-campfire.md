@@ -18,10 +18,10 @@ search_exclude: true               # remove this line when ready to publish
 
 # 20–30 words. Used in meta tags, search results, and the highlights box at
 # the top of the page. Easier to write last, once the rest of the page exists.
-description: One or two sentences capturing the core outcome or insight of this case.
+description: How UCL built a team of 19 research data stewards within its Advanced Research Computing department, using a research-technology professional job family model funded through research and core income.
 
 contributors: [Nicholas Owen, Ines Chaves, Robert Andrews]          # mandatory – names must match _data/CONTRIBUTORS.yaml
-page_id: case-study-shortname      # mandatory – lowercase, hyphenated
+page_id: ucl-data-steward-profession      # mandatory – lowercase, hyphenated
 
 # ---------------------------------------------------------------------------
 # Context card – populates the at-a-glance box at the top of the page.
@@ -29,13 +29,16 @@ page_id: case-study-shortname      # mandatory – lowercase, hyphenated
 # Fields tagged [free] are typed verbatim by you.
 # ---------------------------------------------------------------------------
 
-lead_org: "Your institution"       # [free] main org behind the work
-country: FI                        # [vocab] countries.yml – 2-letter key
+lead_org: "UCL (ELIXIR-UK)"       # [free] main org behind the work
+country: UK                        # [vocab] countries.yml – 2-letter key
 # If your ELIXIR node matters, mention it inside lead_org – e.g. "CSC (ELIXIR-FI)".
 
 partners:                          # [free] optional – vendors, universities, funders
-  - "Partner A"
-  - "Partner B"
+  - "ELIXIR-UK"
+  - "ELIXIR Europe"
+  - "Global Alliance for Genomics and Health (GA4GH)"
+  - "BioFAIR"
+  - "Research Data Alliance (RDA)
 
 # Pick the right size of the work.
 # individual | team | institutional | national | international
@@ -50,10 +53,14 @@ domain: life-sciences              # [vocab] domains.yml
 # tooling-gap, sustainability, legal-compliance, stakeholder-engagement,
 # community-building.
 themes:                            # [vocab] themes.yml
+  - unclear-roles
   - tooling-gap
   - stakeholder-engagement
+  - community-building
+  - sustainability
+  - training-gap
 
-start: 2024                        # [free] year the work began
+start: 2022                        # [free] year the work began
 
 # Lifecycle of the work today.
 # active | evolved | paused | archived
@@ -63,14 +70,14 @@ status: active                     # [vocab] outcome_status.yml
 # handbook (the institutional page, the funder page, the project site).
 # Renders as a "Visit the activity page" link inside the context card.
 # Override the link text with `external_url_label` if you need to.
-external_url: https://example.org/activity
-external_url_label: Visit the activity page
+external_url: https://www.ucl.ac.uk/advanced-research-computing
+external_url_label: UCL Advanced Research Computing
 
 # ---------------------------------------------------------------------------
 # Lead quote – one sentence you wish someone had told you at the start.
 # Renders as a pull-quote near the top. Skip if you can't think of one.
 # ---------------------------------------------------------------------------
-lead_quote: The single most useful thing we learned, in one sentence.
+lead_quote: "It's the common purpose that defines research data stewardship better than the particular skills involved."
 
 # ---------------------------------------------------------------------------
 # Cross-references (optional but encouraged) – page_ids of related guidance
@@ -108,10 +115,27 @@ related_pages:
 # Both forms can be mixed in the same list.
 # ---------------------------------------------------------------------------
 resources:
-  - rdmkit
-  - name: "Resource title"
-    url: https://example.org/resource
-    description: One-line context – why this resource matters here.
+  - name: "FAIR Data Principles (2016)"
+    url: https://www.go-fair.org/fair-principles/
+    description: The foundational principles guiding UCL's data stewardship approach — making data Findable, Accessible, Interoperable, and Reusable.
+  - name: "Realising the European Open Science Cloud (2016)"
+    url: https://ec.europa.eu/research/openscience/pdf/realising_the_european_open_science_cloud_2016.pdf
+    description: EU High Level Expert Group report that emphasised the importance of data stewardship and estimated a need for over half a million 'core data experts' within a decade.
+  - name: "ARC Life Sciences Collaborations"
+    url: https://www.ucl.ac.uk/advanced-research-computing/collaborations-consultancy/life-sciences-collaborations
+    description: ARC's dedicated Life Sciences theme group, led by Nicholas Owen, providing domain-specialist data stewardship and computational support to UCL life science researchers.
+  - name: "ELIXIR-UK"
+    url: https://elixiruknode.org/
+    description: The UK node of ELIXIR, supporting training, tools, and data resources for life sciences research data management; a key external community for UCL's life sciences data stewards.
+  - name: "ELIXIR Europe"
+    url: https://elixir-europe.org/
+    description: Pan-European infrastructure for biological information, providing standards and community frameworks that inform UCL's FAIR data practice in life sciences.
+  - name: "Global Alliance for Genomics and Health (GA4GH)"
+    url: https://www.ga4gh.org/
+    description: International standards body for responsible genomic and health data sharing; standards developed through GA4GH inform UCL's genomics data stewardship workflows.
+  - name: "BioFAIR"
+    url: https://biofair.uk/
+    description: UK national research infrastructure for FAIR life sciences data, providing a community and technical framework that complements ARC's institutional data stewardship work.
 ---
 
 
