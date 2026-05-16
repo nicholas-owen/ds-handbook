@@ -38,7 +38,7 @@ partners:                          # [free] optional – vendors, universities, 
   - "ELIXIR Europe"
   - "Global Alliance for Genomics and Health (GA4GH)"
   - "BioFAIR"
-  - "Research Data Alliance (RDA)
+  - "Research Data Alliance (RDA)"
 
 # Pick the right size of the work.
 # individual | team | institutional | national | international
