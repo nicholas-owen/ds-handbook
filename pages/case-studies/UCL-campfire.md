@@ -11,7 +11,7 @@
 # inventing one inline (so filtering and counts stay consistent).
 # ============================================================================
 
-title: " UCL - Data Steward as a profession"          # mandatory – short, specific
+title: " UCL - Data Steward as a profession - WIP"          # mandatory – short, specific
 layout: case-study                 # mandatory – leave as-is
 type: [Case Study]                 # mandatory – leave as-is
 search_exclude: true               # remove this line when ready to publish
@@ -154,6 +154,14 @@ resources:
 >triggered it) help more than abstractions.
 
 
+UCL's research data function began as a conventional research IT services team sitting within a large Information Services division. In 2016 — the year the FAIR Data Principles were published and the EU High Level Expert Group report *Realising the European Open Science Cloud* highlighted the need for hundreds of thousands of "core data experts" — the team was primarily occupied with managing research data storage and implementing an institutional data repository. The concept of a named "research data steward" role did not exist at UCL, and few people anywhere had yet heard the term.
+
+The gap was not just one of vocabulary. The team's model was transactional and services-led: researchers pressed buttons, submitted forms, and received outputs. Direct collaboration with researchers on the substance of their data management was limited. There were no mechanisms to intervene in the actual research process, no structured metadata capture, and no community connecting people across the university who were already doing data stewardship work without calling it that.
+
+The moment to act came in 2022, when the team was reorganised and rebranded as the Centre for Advanced Research Computing (ARC). This restructure created the conditions — institutional identity, a new funding model, and a formalised job family framework — that made building a professional data stewardship team possible.
+
+
+
 ## What we did (mandatory)
 
 >Note: The actual approach. Walk through what you tried, in roughly the order
@@ -172,6 +180,26 @@ resources:
 >If you got something wrong and pivoted, say so here – the pivot is part
 >of the story.
 
+The foundation for everything that followed was the creation of a **research technology professional job family** framework within ARC. Rather than hiring individuals into one-off, bespoke roles, the department defined five job families: Research Software Engineers, Research Infrastructure Developers, Research Data Stewards, Research Data Scientists, and PRISMs (Professional Research Investment and Strategy Managers). Every member of ARC belongs to one of these families. This structure had three practical consequences:
+
+First, it removed the friction of recruitment. Generic job descriptions mean HR do not need to review and approve from scratch each time a post is created, cutting what had previously been a four-month approval cycle. Job adverts are then tailored within the generic framework to attract the specific skills needed at any given time.
+
+Second, it created career pathways. Before the restructure, the only promotion route for a technical specialist was into management. The job family model allows progression within each profession, which matters particularly for retaining experienced people.
+
+Third, and most significantly for sustainability, it enabled **permanent contracts**. Many of the team's recruits had come from departmental research roles, often postdoc positions, characterised by short-term contracts and job insecurity. ARC's model, funded substantially through research income written into grant bids, provides enough ongoing flow of projects that individuals can move between them without returning to precarity. As word has spread, this stability has itself become a recruitment advantage.
+
+The **funding model** was built on the precedent set by UCL's Research Software Engineering team, which has operated since around 2013 and achieved self-sustainability through research income. UCL negotiated that grant income, including overheads (as UKRI guidance now officially supports), can be used to grow the department rather than purely to deliver project outputs. Research technology professionals are written into bids wherever possible. Bringing in overheads allows the team to maintain and develop core services alongside project work.
+
+The **team composition** was intentionally broad. The data stewards team includes people from technical data librarianship, university administration, data science, academic publishing, clinical trials, specialist scientific equipment (e.g. imaging), and departmental research backgrounds. Some are domain specialists, including life science expertise relevant to the ELIXIR community, and some are generalists able to support services across disciplines. The team operates a hybrid model: everyone is expected to engage with both the services side and the research side of the work, so that service design is informed by direct research experience and researchers receive relevant signposting to institutional services.
+
+Alongside the core data stewards team, ARC organises its collaborative work into **domain-specific research theme groups** that give researchers a more direct point of contact with specialists who understand their field. The **Life Sciences theme group**, led by Nicholas Owen, is the most directly relevant to the ELIXIR community. The group brings together Research Technology Professionals with dual fluency in life sciences research and computational methods. Their work spans omics pipelines (genomics, transcriptomics, epigenetics using tools such as Nextflow), bio-image analysis (napari, FIJI, large imaging datasets), standards in computational biology (COMBINE, BioModels, BioSimulators, Open Source Brain), and neuroscience informatics. Critically, applying FAIR data principles to life sciences outputs is named explicitly as a core commitment of the group — bridging the abstract principles of the wider data stewardship team to the concrete workflows of bench and computational researchers. The group also runs a dedicated teaching series at UCL's Division of Biosciences, covering reproducibility, data management, HPC, and AI, an example of stewardship being enacted through capacity-building rather than purely through direct service delivery. Other ARC theme groups cover Healthcare, Medical Imaging, High Performance Computing, Trusted Research Environments, and DevOps/cloud, meaning that a researcher in almost any domain can engage with specialists who recognise their context, while drawing on the shared infrastructure and governance of the central team.
+
+**External community engagement** has been an active and deliberate part of how the team builds credibility, stays current, and contributes back to the broader profession. UCL's life sciences data stewards are engaged with **ELIXIR-UK** (the UK node) and **ELIXIR Europe**, the pan-European infrastructure for biological information. This engagement shapes how UCL implements FAIR data practice in life sciences, drawing on ELIXIR's training frameworks, tool registries, and community standards rather than building from scratch, and in turn contributing UCL's experience back to those communities. The team is also connected to **GA4GH** (Global Alliance for Genomics and Health), the international standards body for responsible genomic and health data sharing, whose standards inform UCL's genomics data stewardship workflows. **BioFAIR**, the UK national research infrastructure for FAIR life sciences data, provides a further community and technical framework that complements ARC's institutional work and situates it within a national landscape. These engagements are not peripheral, they are part of how a central institutional team remains relevant to specialist researchers who could otherwise view generic data stewardship support as too distant from their actual practice.
+
+Beyond the core team, ARC ran **community of practice workshops** to identify and connect people elsewhere at UCL who were doing data stewardship work without the label. Participants placed sticky notes on a research data management lifecycle wheel to indicate where their work fell. This brought in colleagues from across all background at UCL, as well as departmental research staff not yet connected to any broader network.
+
+The **services portfolio** grew in parallel with the team. Starting from research data storage, it expanded to include: an institutional data repository (launched 2019, based on Figshare), an electronic research notebook service based upon RSpace, Globus for large-scale data transfer, a data safe haven (being modernised into more flexible Trusted Research Environments), and a managed third-party data service to reduce duplication across the university. HPC infrastructure was integrated more closely with research data storage.
+
 
 ## What changed (encouraged)
 
@@ -188,6 +216,21 @@ resources:
 >If the work hasn't produced visible change yet, say so – *"too early to
 >tell, will revisit in 12 months"* is a fine answer when it's honest.
 >Better than reaching for impact that isn't there.
+
+UCL went from having no named research data stewards in 2016 to a team of 19 at the time of writing. The department as a whole grew from approximately 40 people as Research IT Services to around 140 in ARC.
+
+The shift from transactional to collaborative working is the qualitative change the team points to most directly. Stewards now intervene in active research processes, helping researchers enact the data management plans they have written, rather than simply receiving deposits at the end of a project. This is described as the difference between data management being described as good practice and it actually taking place.
+
+The community of practice initiative identified data stewardship activity distributed across UCL that had previously operated in isolation, bringing those practitioners into a shared network.
+
+Permanent contracts have enabled knowledge retention. Previously, when researchers on short-term contracts moved on, institutional knowledge left with them. That pattern has been disrupted.
+
+UCL is now described (at time of writing) as appearing at the top of Google searches for UK universities doing research data stewardship, an informal indicator of visible leadership in the field.
+
+The Life Sciences theme group has made ARC's stewardship offer tangible for one of UCL's largest research communities. Domain-specialist stewards working alongside bench and computational researchers — on omics pipelines, imaging data, and computational biology standards, represent a qualitative shift from the earlier model in which researchers had to translate their specific data challenges into generic service requests. Embedding FAIR principles within active research workflows, rather than at the point of data deposit, is the practical manifestation of the team's ambition. The group's teaching series at the Division of Biosciences marks ARC's stewardship extending into researcher capacity-building at the faculty level.
+
+External engagement with ELIXIR-UK, ELIXIR Europe, GA4GH, and BioFAIR has given UCL's stewards a visible presence in the communities that matter most to life sciences researchers. This external positioning helps with internal credibility: researchers are more likely to trust and engage with stewards who are known contributors to the standards bodies and communities those researchers already rely on. It also keeps the team embedded in evolving best practice rather than at risk of institutional insularity.
+
 
 
 ## What we'd tell others (mandatory)
@@ -208,6 +251,12 @@ resources:
 >  or funded? Who maintains or owns it? What are the plans for
 >  continuation, embedding, or scaling? If continuity is uncertain, say
 >  so.
+
+**What worked, and why.**
+
+**What didn't work, and how you adapted.**
+
+**Transferability and scaling potential.**
 
 
 **Sustainability and next steps.**
