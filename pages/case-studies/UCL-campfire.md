@@ -270,11 +270,11 @@ Earlier iterations of the team were too siloed from other teams due to project l
 
 **Transferability and scaling potential.**
 
-The model requires several conditions: 
+{% include callout.html type="tip" content="The model requires several conditions: 
 - institutional willingness to recognise research technology roles as a distinct job family
 - leadership with enough influence to navigate HR and finance structures
 - an existing pipeline of grant activity large enough to sustain a core team through research income
-- and at least one champion within research departments willing to include data stewardship costs in bids early on.
+- and at least one champion within research departments willing to include data stewardship costs in bids early on." %}
 
 The Dutch experience (faculty-based rather than central teams) shows that there is no single correct model, the right structure will depend on institutional culture and scale.
 
