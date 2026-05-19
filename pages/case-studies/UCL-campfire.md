@@ -115,15 +115,15 @@ related_pages:
 # Both forms can be mixed in the same list.
 # ---------------------------------------------------------------------------
 resources:
+  - name: "ARC Life Sciences Collaborations"
+    url: https://www.ucl.ac.uk/advanced-research-computing/collaborations-consultancy/life-sciences-collaborations
+    description: ARC's dedicated Life Sciences theme group, led by Nicholas Owen, providing domain-specialist data stewardship and computational support to UCL life science researchers.
   - name: "FAIR Data Principles (2016)"
     url: https://www.go-fair.org/fair-principles/
     description: The foundational principles guiding UCL's data stewardship approach — making data Findable, Accessible, Interoperable, and Reusable.
   - name: "Realising the European Open Science Cloud (2016)"
     url: https://ec.europa.eu/research/openscience/pdf/realising_the_european_open_science_cloud_2016.pdf
     description: EU High Level Expert Group report that emphasised the importance of data stewardship and estimated a need for over half a million 'core data experts' within a decade.
-  - name: "ARC Life Sciences Collaborations"
-    url: https://www.ucl.ac.uk/advanced-research-computing/collaborations-consultancy/life-sciences-collaborations
-    description: ARC's dedicated Life Sciences theme group, led by Nicholas Owen, providing domain-specialist data stewardship and computational support to UCL life science researchers.
   - name: "ELIXIR-UK"
     url: https://elixiruknode.org/
     description: The UK node of ELIXIR, supporting training, tools, and data resources for life sciences research data management; a key external community for UCL's life sciences data stewards.
