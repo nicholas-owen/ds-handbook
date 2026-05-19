@@ -153,8 +153,7 @@ resources:
 >the gap. Concrete details (sizes, dates, the specific incident that
 >triggered it) help more than abstractions.
 
-
-UCL's research data function began as a conventional research IT services team sitting within a large Information Services division. In 2016 — the year the FAIR Data Principles were published and the EU High Level Expert Group report *Realising the European Open Science Cloud* highlighted the need for hundreds of thousands of "core data experts" — the team was primarily occupied with managing research data storage and implementing an institutional data repository. The concept of a named "research data steward" role did not exist at UCL, and few people anywhere had yet heard the term.
+<p class="drop-cap">UCL's research data function began as a conventional research IT services team sitting within a large Information Services division. In 2016 — the year the FAIR Data Principles were published and the EU High Level Expert Group report *Realising the European Open Science Cloud* highlighted the need for hundreds of thousands of "core data experts" — the team was primarily occupied with managing research data storage and implementing an institutional data repository. The concept of a named "research data steward" role did not exist at UCL, and few people anywhere had yet heard the term.</p>
 
 The gap was not just one of vocabulary. The team's model was transactional and services-led: researchers pressed buttons, submitted forms, and received outputs. Direct collaboration with researchers on the substance of their data management was limited. There were no mechanisms to intervene in the actual research process, no structured metadata capture, and no community connecting people across the university who were already doing data stewardship work without calling it that.
 
