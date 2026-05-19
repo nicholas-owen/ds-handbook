@@ -254,6 +254,13 @@ External engagement with ELIXIR-UK, ELIXIR Europe, GA4GH, and BioFAIR has given 
 
 **What worked, and why.**
 
+The single most transferable element is the job family framework. Defining the profession before recruiting into it, rather than creating individual posts reactively, solved multiple problems simultaneously: HR friction, career progression, recruitment attraction, and the ability to offer permanent contracts. The precedent of an existing, successful job family (Research Software Engineers) was essential in persuading institutional gatekeepers that the model was credible. If your institution has an established RSE team, that is the argument to make.
+
+Funding through research income rather than purely through core institutional budget is what enabled growth. Getting research technology professionals written into grant bids is achievable; UKRI guidance now explicitly supports including overheads. The initial persuasion of research teams to include these costs is the hurdle, and it requires demonstrating value in practice first.
+
+Organising collaborative work into **domain-specific research theme groups** has been important for researcher engagement. A central data stewardship team risks being perceived as too generic to help with specialist research data challenges. Having an organised Life Sciences theme, with stewards who know bioinformatics, who understand ATAC-seq, who are active in ELIXIR and GA4GH — removes that barrier. Researchers engage with people who speak their language. The theme groups do not fragment the team; they are a front-door for domain-specific entry points that feed into shared infrastructure, governance, and professional development. Other institutions building stewardship teams should consider how they will make the offer legible to specialist research communities, not just to research support staff.
+
+
 **What didn't work, and how you adapted.**
 
 **Transferability and scaling potential.**
