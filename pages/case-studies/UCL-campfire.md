@@ -263,6 +263,11 @@ Organising collaborative work into **domain-specific research theme groups** has
 
 **What didn't work, and how you adapted.**
 
+Generic job descriptions while essential for speed and HR efficiency sometimes advertise such a broad range of skills that they may deter applicants. The team is aware of this and continues to work on how the profession is described and communicated. The balance between services work and research involvement also remains a live tension: currently we acknowledge a drift toward the research side that left services somewhat under-supported. We continue to balance cost recovery from research projects and service management. Services are harder to fund through grants, which creates a structural pull toward research-facing work that requires active management.
+
+Earlier iterations of the team were too siloed from other teams due to project load. Collaboration across research technology professions, not just between stewards and researchers, is essential, and the tighter integration of research data storage and compute infrastructure reflects that lesson learnt.
+
+
 **Transferability and scaling potential.**
 
 
