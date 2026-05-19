@@ -270,8 +270,19 @@ Earlier iterations of the team were too siloed from other teams due to project l
 
 **Transferability and scaling potential.**
 
+The model requires several conditions: 
+- institutional willingness to recognise research technology roles as a distinct job family
+- leadership with enough influence to navigate HR and finance structures
+- an existing pipeline of grant activity large enough to sustain a core team through research income
+- and at least one champion within research departments willing to include data stewardship costs in bids early on.
+
+The Dutch experience (faculty-based rather than central teams) shows that there is no single correct model, the right structure will depend on institutional culture and scale.
+
+For smaller institutions or those earlier in the journey, the community of practice approach of going out to people already doing data stewardship work and naming what they do is a low-cost first step that builds visibility and internal allies before any formal team exists.
+
 
 **Sustainability and next steps.**
+
 The team is funded through a combination of core departmental budget and research income. Permanent contracts depend on a continuing flow of projects, which has held so far but requires ongoing effort to maintain. Long-term technical goals include automated metadata population from services, provenance capture throughout the research lifecycle, and expanded trusted research environments for sensitive data — all of which represent future capacity requirements. The work with ELIXIR and BioFAIR through the Pathfinder project will one of the many vehicles through which UCL works to embed the profession more formally at all levels.
 
 External community engagement — with ELIXIR-UK, ELIXIR Europe, GA4GH, and BioFAIR — is not simply a reputational activity; it is part of how the team sustains its relevance and influence. Contributing to standards development and community training means that UCL's practices stay aligned with what the broader research community expects, and it means that stewards bring back knowledge and connections that strengthen the institutional offer. For other institutions, engaging with these communities early — before a full team exists — is a practical way to build credibility and find collaborators. Broader national community of practice development (along lines seen in Ireland, Canada, and Austria) is identified as a gap in the UK that the team is keen to help address through these channels.
